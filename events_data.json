@@ -1,0 +1,26 @@
+[
+  {
+    "title": "CHIANZ / 新東京 ONE WEEK WONDER 25",
+    "live_house_name": "TOKIO TOKYO",
+    "bands": ["CHIANZ", "新東京"],
+    "genre": "Rock",
+    "start_time": "2025-03-26T19:00:00",
+    "end_time": "2025-03-26T22:00:00",
+    "price_info": "3500 yen",
+    "ticket_url": "https://t.pia.jp/pia/ticketInformation.do?eventCd=2444179&rlsCd=005",
+    "description": "CHIANZ / 新東京 ONE WEEK WONDER 25",
+    "poster_url": "https://storage.googleapis.com/studio-cms-assets/projects/p6aoJo9EqR/s-2400x2400_v-frms_webp_d42d417f-1abc-4c45-a7bf-c07eb0c06fd3_regular.webp"
+  },
+  {
+    "title": "虹歴史 -田島ハルコ one-man show-",
+    "live_house_name": "渋谷WWW X",
+    "bands": ["田島ハルコ"],
+    "genre": "Indie",
+    "start_time": "2025-03-05T19:30:00",
+    "end_time": "2025-03-05T21:30:00",
+    "price_info": "3500 yen",
+    "ticket_url": "https://eplus.jp/sf/detail/4236260001-P0030001?P6=001&P1=0402&P59=1",
+    "description": "田島ハルコ究極進化！キャリア集大成のアルバム『虹歴史』をリリース！リリースワンマンライブは渋谷WWWにて開催！",
+    "poster_url": "https://www-shibuya.jp/schedule/tajimaharuko_main.png"
+  }
+]
